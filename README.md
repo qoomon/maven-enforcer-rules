@@ -1,4 +1,5 @@
 ## Install [![Maven Central](https://img.shields.io/maven-central/v/com.qoomon/maven-enforcer-rules.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.qoomon%22%20AND%20a%3A%22maven-enforcer-rules%22)
+[![Build Status](https://travis-ci.org/qoomon/maven-enforcer-rules.svg?branch=master)](https://travis-ci.org/qoomon/maven-enforcer-rules)
 [![Dependency Status](https://dependencyci.com/github/qoomon/maven-enforcer-rules/badge)](https://dependencyci.com/github/qoomon/maven-branch-enforcer-rules)
             
 ```xml
